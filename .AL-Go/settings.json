@@ -1,7 +1,15 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v10.0/.Modules/settings.schema.json",
-  "country": "us",
+  "country": "dk",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "enableCodeCop": true,
+  "enableUICop": true,
+  "enablePerTenantExtensionCop": true,
+  "customCodeCops": [
+    "https://github.com/StefanMaron/BusinessCentral.LinterCop/releases/latest/download/BusinessCentral.LinterCop.dll"
+  ],
+  "enableCodeAnalyzersOnTestApps": true,
+  "failOn": "warning"
 }

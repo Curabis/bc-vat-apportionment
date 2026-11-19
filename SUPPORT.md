@@ -1,11 +1,5 @@
 # Support
 
-## How to file issues and get help
+Questions, bugs and comments on the requirements: open an issue in this repository.
 
-This GitHub repo is auto-generated from https://github.com/microsoft/AL-Go. Issues, bug tracking and feature requests should be done there.
-
-Please follow the documentation [here](https://github.com/microsoft/AL-Go/blob/main/Scenarios/Contribute.md) if you want to contribute to AL-Go for GitHub.
-
-## Microsoft Support Policy
-
-Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+This app is provided as is, under the MIT license.
