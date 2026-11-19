@@ -1,0 +1,41 @@
+{
+  "id": "d21c0de2-d51d-4031-97d0-3c914ae58f66",
+  "name": "VAT Apportionment Performance Test",
+  "publisher": "CURABIS ApS",
+  "version": "0.1.0.0",
+  "brief": "Performance tests for VAT Apportionment.",
+  "description": "Business Central Performance Toolkit scenarios for VAT Apportionment.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://github.com/Curabis/bc-vat-apportionment",
+  "logo": "",
+  "screenshots": [],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "runtime": "18.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "dependencies": [
+    {
+      "id": "c067bb49-a3ee-42ef-afcf-a6808cff02b6",
+      "name": "VAT Apportionment",
+      "publisher": "CURABIS ApS",
+      "version": "0.1.0.0"
+    },
+    {
+      "id": "75f1590f-55c5-4501-ae63-bada5534e852",
+      "name": "Performance Toolkit",
+      "publisher": "Microsoft",
+      "version": "29.0.0.0"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 60200,
+      "to": 60249
+    }
+  ]
+}

@@ -6,7 +6,7 @@ Business Central can apply a fixed non-deductible VAT percentage. It does not ca
 
 ## Status
 
-Specification phase. No code published yet.
+Specification phase. The app, test app and performance test app are empty templates; no code published yet.
 
 - Requirements (Danish): [docs/specs/splitmoms-kravspecifikation.md](docs/specs/splitmoms-kravspecifikation.md)
 - Target: Business Central 29, Danish localization

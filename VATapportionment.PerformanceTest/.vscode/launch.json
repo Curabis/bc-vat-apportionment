@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Microsoft cloud sandbox",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "",
+            "breakOnError": "All",
+            "schemaUpdateMode": "ForceSync",
+            "launchBrowser": true
+        }
+    ]
+}

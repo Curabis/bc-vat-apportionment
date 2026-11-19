@@ -1,0 +1,33 @@
+{
+  "id": "c067bb49-a3ee-42ef-afcf-a6808cff02b6",
+  "name": "VAT Apportionment",
+  "publisher": "CURABIS ApS",
+  "version": "0.1.0.0",
+  "brief": "Partial VAT deduction (Danish splitmoms) under the Danish VAT Act section 38(1).",
+  "description": "Calculates the deduction percentage from turnover, applies the provisional percentage per fiscal year to common costs and proposes the annual adjustment.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://github.com/Curabis/bc-vat-apportionment",
+  "logo": "",
+  "screenshots": [],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "runtime": "18.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "dependencies": [],
+  "idRanges": [
+    {
+      "from": 60100,
+      "to": 60149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  }
+}

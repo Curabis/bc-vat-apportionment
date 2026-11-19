@@ -1,6 +1,15 @@
 {
     "folders": [
         {
+            "path": "VATapportionment"
+        },
+        {
+            "path": "VATapportionment.Test"
+        },
+        {
+            "path": "VATapportionment.PerformanceTest"
+        },
+        {
             "path": ".AL-Go"
         },
         {
