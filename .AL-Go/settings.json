@@ -1,6 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v10.0/.Modules/settings.schema.json",
   "country": "dk",
+  "useCompilerFolder": false,
+  "doNotPublishApps": false,
   "appFolders": [
     "VATapportionment"
   ],
@@ -14,7 +16,7 @@
   "enableUICop": true,
   "enablePerTenantExtensionCop": true,
   "customCodeCops": [
-    "https://github.com/StefanMaron/BusinessCentral.LinterCop/releases/latest/download/BusinessCentral.LinterCop.dll"
+    "https://github.com/StefanMaron/BusinessCentral.LinterCop/releases/download/v0.40.1/BusinessCentral.LinterCop.dll"
   ],
   "enableCodeAnalyzersOnTestApps": true,
   "failOn": "warning"
